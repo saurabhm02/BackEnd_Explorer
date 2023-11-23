@@ -49,11 +49,11 @@ app.get('/about', (req, res) =>{
 
 
 app.get('/login', (req, res) =>{
-    res.json(githubData);
+    res.send('<div><label>Hello Saurabh</label> <input type="text" ></div>')
 });
 
 app.get('/github', (req, res) =>{
-    res.send('<a href="https://github.com/saurabhm02">Saurabh Github</a>')
+    res.json(githubData);
 })
  
 
