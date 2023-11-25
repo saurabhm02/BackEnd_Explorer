@@ -3,6 +3,8 @@ import express from 'express';
 // const cors = require('cors');
 import cors from 'cors';
 const app = express();
+import env from 'env';
+env.config();
 const port = process.env.PORT;
 
 app.use(cors());
