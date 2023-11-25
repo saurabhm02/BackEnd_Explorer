@@ -2,7 +2,9 @@
 
 * How we can make a data modelling in backend.
 
-<img align="right" alt="img" height="180px" src="https://app.eraser.io/workspace/RKoTrPHmZ8dOnaCimyMWf" />
+ ![DataModel of Todo]](./static/dataModel.png)
+
+<img src="./static/dataModel.png" />
 
 
 * For example, we are going to creating a Data Modellinng of Todo-App
