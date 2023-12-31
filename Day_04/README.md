@@ -1,7 +1,7 @@
-# Simple express demo
+### In Day3 We learn 
 
-> Express: fast, unopinionated, minimalist web framework for Node.js
+* How we can make a data modelling in backend.
 
-This project shows a simple express server serving a single HTML page and using `express.static` to serve static files.
+* In Day 4 for practice Data Modals, we make a data modals for ecommerce website and hosptal management system for more practice 
 
-Check out the [express documentation](https://expressjs.com/) for more information.
+
