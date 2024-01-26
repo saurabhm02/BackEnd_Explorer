@@ -29,4 +29,4 @@ const hospitalSchema = new mongoose.Schema({
 
 }, {timestamps: true});
 
-export const Hospital = mongoose.modal("Hospital", hospitalSchema;
+export const Hospital = mongoose.modal("Hospital", hospitalSchema);
